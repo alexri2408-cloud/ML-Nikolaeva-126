@@ -1,2 +1,2 @@
 # ML-Nikolaeva-126
-Machine learning labs
+Machine Learning labs
